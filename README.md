@@ -61,7 +61,31 @@ Rumus karakter ASCII
 <p>
 
 
+<p>
+2. PHP
 
+Tampikan kode jika di php web
+![Gambar 8](screenshoot/8.png)
+
+Tampilan kode jika di php Visual Code
+![Gambar 9](screenshoot/9.png)
+
+
+Penjelasan singkat hasil kode di gambar atas kenapa ctrl tidak ada hurufnya.
+
+ketika hasil Enkripsi ditampilkan, format keluaran mengandung istilah "ctrl" dan karakter yang dianggap sebagai kontrol ASCII (dengan memanfaatkan nilai desimal dari hasil XOR). Namun, saat menjalankan kode, kita perlu memperhatikan bahwa tidak semua karakter ASCII di bawah 32 adalah karakter kontrol yang dapat ditampilkan secara visual.
+
+Beberapa karakter kontrol tidak memiliki representasi grafis dan mungkin tampak tidak terlihat atau tidak tampak saat ditampilkan di konsol. Oleh karena itu, beberapa karakter kontrol mungkin tidak dapat terlihat saat mencoba menampilkan hasil Enkripsi dengan mencetak karakter kontrol tersebut ke layar.
+
+Sebagai gantinya saya tambahkan nilai biner di setiap ctrl pasti disampinya ada (no biner) agar bisa di lihat huruf di rumus seperti di bawah ini .
+
+Apabila jika ascii masih tidak ada kemungkinan besar di bawah 32 jadi saya mohon maaf kalian bisa memperbaikinya.
+
+Rumus karakter ASCII
+![Gambar 4](screenshoot/4.png)
+![Gambar 5](screenshoot/5.png)
+![Gambar 7](screenshoot/7.png)
+</p>
 
 <p>
  sekian and selesai.
