@@ -28,7 +28,7 @@
 
 <hr>
 
-## implementasi One Time Pad (OTP) di python dan Php
+## Implementasi One Time Pad (OTP) di python dan php
 
 <hr>
 
