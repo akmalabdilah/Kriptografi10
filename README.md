@@ -39,7 +39,7 @@ Contoh Hasil jika di gambarkan
 ![Gambar 1](screenshoot/1.png)
 
 Perintah tugas 
-![Gambar 2](screenshoot/2.png)
+![Gambar 6](screenshoot/6.png)
 
 Hasil kode yang sudah di buat dan gambar output ada di bawah ini
 ![Gambar 3](screenshoot/3.png)
