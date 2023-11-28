@@ -57,6 +57,7 @@ Apabila jika ascii masih tidak ada kemungkinan besar di bawah 32 jadi saya mohon
 Rumus karakter ASCII
 ![Gambar 4](screenshoot/4.png)
 ![Gambar 5](screenshoot/5.png)
+![Gambar 7](screenshoot/7.png)
 <p>
 
 
